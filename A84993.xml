@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the particulars and manner of the late great victory obtained against Iames Marquesse of Montrosse, in Scotland. VVith a perfect list of the names of the lords, gentlemen, and chiefe officers which were taken and slain in the fight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84993</idno>
+            <idno type="STC">Wing F2366</idno>
+            <idno type="STC">Thomason E601_1</idno>
+            <idno type="STC">ESTC R206399</idno>
+            <idno type="EEBO-CITATION">99865559</idno>
+            <idno type="PROQUEST">99865559</idno>
+            <idno type="VID">165623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165623)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E601[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the particulars and manner of the late great victory obtained against Iames Marquesse of Montrosse, in Scotland. VVith a perfect list of the names of the lords, gentlemen, and chiefe officers which were taken and slain in the fight.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Edenburgh by order from the Committee of Estates, and now reprinted at London by E.G. in the Old-baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>May 14. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165623:1" rendition="simple:additions"/>
+            <p>A Full RELATION OF The particulars and manner of the late great VICTORY obtained AGAINST IAMES <hi>Marqueſſe of Montroſſe,</hi> In SCOTLAND.</p>
+            <p>VVith a perfect Liſt of the names of the Lords, Gentlemen, and chiefe Officers which were taken and ſlain in the fight.</p>
+            <figure>
+               <figDesc>printer's device--depiction of a thistle surmounted by a crown</figDesc>
+            </figure>
+            <p>Firſt printed at <hi>Edenburgh</hi> by Order from the Committee of Eſtates, and now reprinted at <hi>London</hi> by <hi>E. G.</hi> in the Old-baily. May 14. 1650.</p>
+            <pb facs="tcp:165623:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="prefatory_letter">
+            <pb facs="tcp:165623:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe News from <hi>Scotland</hi> works ſtrange effects in all people ſuitable to their principles. The old Cavaliers ſtand amazed to ſee the Scots ſtroake the King with one hand, and ſmite him with the other; and begin now to believe that if the entertain<g ref="char:EOLhyphen"/>ment of the Van be ſo rugged, the arrivall of the Rear will not be ſafe.</p>
+            <p>From <hi>Edenburgh</hi> we have intelligence, That it is credibly reported that their King is come to <hi>Caith<g ref="char:EOLhyphen"/>nes,</hi> and yet the day before it was reported the Treaty was broken off. The great victory over <hi>Montroſſe,</hi> and the manner of it, you will ſee by the incloſed, which is printed in <hi>Scotland</hi> by order from the Committee of Eſtates: and withall you may obſerve how much the Kirk and State owns L. Col <hi>Straug<g ref="char:EOLhyphen"/>hans</hi> proceedings by what they have done for him. They have given him 1000 <hi>li.</hi> Engliſh, and a Gold chain: and <hi>Hacket</hi> 1000 marks Engliſh, and <hi>Kiffin</hi> 50 <hi>li</hi> and to the party that engaged in the ſervice three months pay. The Kings Standard in the fight was taken, wherein his head was drawn out to the life, cut off from the body, bleeding. <hi>Sir,</hi> I have no more at preſent, but remain,</p>
+            <closer>
+               <signed>Your very humble ſervant, J. H.</signed>
+               <dateline>Berwick, <date>May 8. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:165623:3"/>
+            <head>A true Relation of the late great and happy <g ref="char:V">Ʋ</g>ictory obtained by the bleſſing of God, upon the 27 of <hi>April</hi> 1650. againſt that Excommunicate and bloody Traytors, <hi>James Graham</hi> and his Com<g ref="char:EOLhyphen"/>plices, who had invaded this Kingdom.</head>
+            <p>IT is a mercy never to be forgotten, that when the Lord might juſtly quarrell with a ſinful Na<g ref="char:EOLhyphen"/>tion for their tranſgreſſion, he powreth out his wrath on their enemies; and as the malice and rage of our adverſaries is renewed againſt us, ſo are the Lords mercies much more manifeſted from yeer to yeer. It is much about this time the laſt yeer when our Commiſſioners were treating with his Ma<g ref="char:EOLhyphen"/>jeſty, that the enemy having gathered together, were broken in pieces by a handfull of our forces: and now this yeer, after long preparations made in forraigne Countries, the excommunicated Traytor <hi>James Gra<g ref="char:EOLhyphen"/>ham,</hi> having landed ſome friend in <hi>Orkney,</hi> did about the tenth of April, in the midſt of the Treaty with the King, comming to <hi>Caithnes</hi> in a hoſtile manner, to kill, plunder, and deſtroy after his wonted manner. But the Lord out of his gracious and wonderfull kind<g ref="char:EOLhyphen"/>neſſe, hath prevented his deſignes. Lieu Gen. <hi>David Leſley</hi> having appointed a Rendezvouz of our Forces
+<pb n="3" facs="tcp:165623:3"/> at <hi>Brechen</hi> the 25 of <hi>April,</hi> did make all poſſible haſte againſt the Enemy, marching 30 miles every day, and to put a ſtop to the enemies advance, he ſent Lieu col. <hi>Straughan</hi> before him to command the Troops that were lying about <hi>Roſſe</hi> and <hi>Innerneſſe.</hi>
+            </p>
+            <p>Upon Saturday <hi>April</hi> 27. the Enemy was quartered at <hi>Strachekell,</hi> in <hi>Roſſe</hi> Lieu. col. <hi>Straughan</hi> with his own Troop, Col <hi>Montgomeries,</hi> Col. <hi>Kers,</hi> Lieu col. <hi>Hackets,</hi> and the Iriſh Troop were quartered about <hi>Kincairne,</hi> their number that were preſent being onely about 230. The Officers being conveined, and having con<g ref="char:EOLhyphen"/>ſidered the great ſcarcity of proviſions for Horſe, and that it was very probable, the Enemies ſtrength being of Foot, they would take the hils; upon the advance of more of our horſe they concluded to fight that wicked crew with the Forces they had: But the Lords day approaching, and the enemy being ten miles di<g ref="char:EOLhyphen"/>ſtant, they were in doubt whether to march towards them preſently, or to delay till Munday, and ſo de<g ref="char:EOLhyphen"/>cline the hazzard of engaging on the Lords day: but this doubt was ſoon removed, for notice was preſently brought that the enemy was marched from <hi>Strachekell</hi> to <hi>Corbisdell,</hi> ſix miles neerer to them: whereupon they forthwith drew up into three parties, the firſt conſiſting of neer 100 horſe, to be led one by Lt. col. <hi>Straughan:</hi> the ſecond ſome more then 80, to be led on by Lt. col. <hi>Hacket;</hi> the third, about 40, to be led by Cap. <hi>Hutchinſon,</hi> and 36 Musqueters of <hi>Lawyers</hi> Regiment (which were occaſionally upon the place) to be led on by Quartermaſter <hi>Shaw.</hi> After prayer, by Maſter <hi>Gilbert Hall,</hi> whom the Commiſſioners of the Generall Aſſembly had appointed to attend theſe Troopes, they marched about three of the clocke
+<pb n="4" facs="tcp:165623:4"/> in the after noon, towards the enemy, who were drawn up in a plain, neer a hill of <hi>Scroggie</hi> Wood, To which upon the advance of our horſe, they quick<g ref="char:EOLhyphen"/>ly retired, yet Lieut. Coll. <hi>Straughan,</hi> perſued them into the wood: And at the firſt charge made them all to runne: The Lord did ſtrike ſuch a terror, into their hearts, as their moſt reſolute Commanders had not the courage to lift up a hand to defend themſelves, and our forces without oppoſition, did execution up<g ref="char:EOLhyphen"/>on them for five or ſix miles, even till Sun ſet: there were killed ten of their beſt Commanders, moſt of their Officers taken, and 386 common ſouldiers, the number of the whole (as the priſoners informed was not above 1200, of all which there eſcaped not 100. but were either taken priſoners, killed or drowned in a River that was neer the place: The chief Standard called the Kings, and four others are taken, What is become of that Traitor <hi>James Graham</hi> is not certain, but that horſe which he rid upon, when the forces en<g ref="char:EOLhyphen"/>gaged, is taken: alſo his Coat with the Starre, and his Sword-Belt was found in the field; the harm which our forces have got from the enemy is very little, bleſ<g ref="char:EOLhyphen"/>ſed be the Lord, who covered their head in the day of battel: Lieut. Coll. <hi>Straughan</hi> received a ſhot upon his belly, but lighting upon the double of his Belt and Buffecoat, it did not pierce: one of our troopers, too forward by haſtning after a boat, which carried two or three of the enemy over the River, was drowned, and two are wounded, which is all the loſſe; advertiſements was ſent that ſame night to all parts about, to appre<g ref="char:EOLhyphen"/>hend all that eſcaped, but the account is not return<g ref="char:EOLhyphen"/>ed; the Gentlemen of the Shire of <hi>Roſſe,</hi> were drawne together on the Hills, to engage againſt the enemy, if
+<pb n="5" facs="tcp:165623:4"/> they had come that way, and were very ready to pro<g ref="char:EOLhyphen"/>vide our Troops with ſupplies of all things neceſſary; for which they deſerved to be remembred.</p>
+            <p>The enemy left ſome ſmall part of his forces in <hi>Caithnes,</hi> to keep ſome houſes, and to raiſe forces in that Country, and ſent ſome few to other places to bring them aſſiſtance; againſt whom the Lieut. Gen. hath ſent ſuch forces, as we truſt ſhall ſpeedily give a good account of them: It remains that we be truly thankful unto the Lord our God, for ſo ſeaſonable and ſo compleat a victory over ſo wicked and cruel an enemy; and that we look upon it as a pledge of grea<g ref="char:EOLhyphen"/>ter mercies, which the Lord hath to beſtow upon us, if he ſhall in his wiſdom think fit, to put us to harder tri<g ref="char:EOLhyphen"/>als, in the defence of his Cauſe and Covenant. It is omitted in the Relation, that Capt. <hi>William Roſſe,</hi> and Capt. <hi>John Roſſe</hi> came up to the execution with 80. foot, choſen out of the Country forces, and did good ſervice.</p>
+            <p>
+               <list>
+                  <head>A Liſt of the Officers taken.</head>
+                  <item>Lord <hi>Frandrought.</hi>
+                  </item>
+                  <item>Gen, Major <hi>Hurrie.</hi>
+                  </item>
+                  <item>Collonel <hi>Gray.</hi>
+                  </item>
+                  <item>Lieut. Coll. <hi>Stuart.</hi>
+                  </item>
+                  <item>Lieut. Coll. <hi>Hay,</hi> Brother to the Laird of <hi>Nachtow.</hi>
+                  </item>
+                  <item>Major <hi>Fleake.</hi>
+                  </item>
+                  <item>Capt. <hi>Mortimer.</hi>
+                  </item>
+                  <item>Ronte-Maſt. <hi>Walloris.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Senſe,</hi> Capt. of Dra<g ref="char:EOLhyphen"/>goons.</item>
+                  <item>Capt. <hi>Warden.</hi>
+                  </item>
+                  <item>Capt. <hi>Anchinleck.</hi>
+                  </item>
+                  <item>Capt. <hi>Spotſwood.</hi>
+                  </item>
+                  <item>Capt. <hi>Charters.</hi>
+                  </item>
+                  <item>Capt. <hi>Lawſon.</hi>
+                  </item>
+                  <item>Capt. Lieut. <hi>Guſtabus.</hi>
+                  </item>
+                  <item>Lieut. <hi>Verkim.</hi>
+                  </item>
+                  <item>Lieut. <hi>Andrew Glen.</hi>
+                  </item>
+                  <item>Lieut. <hi>Robert Tonch.</hi>
+                  </item>
+                  <item>Lieut. <hi>Erneſtus Burham.</hi>
+                  </item>
+                  <item>
+                     <hi>Lawrence van Luitenberg.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:165623:5"/>
+                  <item> Lieut. <hi>David Dromond.</hi>
+                  </item>
+                  <item>Lieut. <hi>William Roſſe.</hi>
+                  </item>
+                  <item>Lieut. <hi>Dromond.</hi>
+                  </item>
+                  <item>Lieut. <hi>James. Dimi.</hi>
+                  </item>
+                  <item>Lieut. <hi>Alexander Stuart.</hi>
+                  </item>
+                  <item>Cor. <hi>Ralph Marley.</hi> Engliſhman.</item>
+                  <item>Cor. <hi>Hendrick Erlach.</hi>
+                  </item>
+                  <item>Cor. <hi>Daniel Beaich.</hi>
+                  </item>
+                  <item>Enſigne <hi>Rob. Graham.</hi>
+                  </item>
+                  <item>Enſi. <hi>Adrian Ringwerch.</hi>
+                  </item>
+                  <item>Enſigne <hi>Hans Boaz.</hi>
+                  </item>
+                  <item>Two quarter Maſters.</item>
+                  <item>Six Serjeants.</item>
+                  <item>Fifteen Corporals.</item>
+                  <item>Two Trumpeters.</item>
+                  <item>3. Drums.</item>
+                  <item>386. Souldiers.</item>
+                  <item>Mr. <hi>Riddie.</hi>
+                  </item>
+                  <item>Mr. <hi>Meldrum.</hi> Miniſters.</item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <head>A Liſt of the Officers killed.</head>
+                  <item>Laird of <hi>Poury Ogilvy.</hi>
+                  </item>
+                  <item>Laird of <hi>Petfothels,</hi> Stan<g ref="char:EOLhyphen"/>dard bearer younger.</item>
+                  <item>
+                     <hi>John Dougles</hi> Brother to the Earl of <hi>Morlow.</hi>
+                  </item>
+                  <item>Major <hi>Lille.</hi>
+                  </item>
+                  <item>Major <hi>Bicher.</hi>
+                  </item>
+                  <item>Capt. <hi>Stirling.</hi>
+                  </item>
+                  <item>Capt. <hi>Powel.</hi>
+                  </item>
+                  <item>Capt. <hi>Erskin.</hi>
+                  </item>
+                  <item>Capt. <hi>Swan.</hi>
+                  </item>
+                  <item>Cap. <hi>Garrie,</hi> and L<hi rend="sup">t</hi>. <hi>H<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lme</hi> either killed or taken.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edenburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty, 1650.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
